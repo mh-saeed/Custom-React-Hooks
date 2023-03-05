@@ -3,18 +3,18 @@
 // import TimeoutComponent from "./02-useTimeout/TimeoutComponent";
 // import DebounceComponent from "./03-useDebounce/DebounceComponent";
 // import UpdateEffectComponent from "./04-useUpdateEffect/UpdateEffectComponent";
-import ArrayComponent from "./05-useArray/ArrayComponent";
+// import ArrayComponent from "./05-useArray/ArrayComponent";
+import PreviousComponent from "./06-usePrevious/PreviousComponent";
 
 function App() {
   return (
-    <>
-      {/* <CustomHookApp /> */}
-      {/* <ToggleComponent /> */}
-      {/* <TimeoutComponent /> */}
-      {/* <DebounceComponent /> */}
-      {/* <UpdateEffectComponent /> */}
-      <ArrayComponent />
-    </>
+    // <CustomHookApp />
+    // <ToggleComponent />
+    // <TimeoutComponent />
+    // <DebounceComponent />
+    // <UpdateEffectComponent />
+    // <ArrayComponent />
+    <PreviousComponent />
   );
 }
 
