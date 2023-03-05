@@ -8,6 +8,7 @@
 // import StateWithHistoryComponent from "./07-useStateWithHistory/StateWithHistoryComponent";
 // import StorageComponent from "./08-useStorage/StorageComponent";
 import AsyncComponent from "./09-useAsync/AsyncComponent";
+import FetchComponent from "./10-useFetch/FetchComponent";
 
 function App() {
   return (
@@ -20,7 +21,8 @@ function App() {
     // <PreviousComponent />
     // <StateWithHistoryComponent />
     // <StorageComponent />
-    <AsyncComponent />
+    // <AsyncComponent />
+    <FetchComponent />
   );
 }
 
