@@ -4,7 +4,8 @@
 // import DebounceComponent from "./03-useDebounce/DebounceComponent";
 // import UpdateEffectComponent from "./04-useUpdateEffect/UpdateEffectComponent";
 // import ArrayComponent from "./05-useArray/ArrayComponent";
-import PreviousComponent from "./06-usePrevious/PreviousComponent";
+// import PreviousComponent from "./06-usePrevious/PreviousComponent";
+import StateWithHistoryComponent from "./07-useStateWithHistory/StateWithHistoryComponent";
 
 function App() {
   return (
@@ -14,7 +15,8 @@ function App() {
     // <DebounceComponent />
     // <UpdateEffectComponent />
     // <ArrayComponent />
-    <PreviousComponent />
+    // <PreviousComponent />
+    <StateWithHistoryComponent />
   );
 }
 
