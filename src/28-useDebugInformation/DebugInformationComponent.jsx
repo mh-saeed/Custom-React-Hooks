@@ -1,5 +1,5 @@
 import useDebugInformation from "./useDebugInformation";
-import useToggle from "../1-useToggle/useToggle";
+import useToggle from "../01-useToggle/useToggle";
 import { useState } from "react";
 
 export default function DebugInformationComponent() {

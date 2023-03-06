@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import useMediaQuery from "../16-useMediaQuery/useMediaQuery";
-import { useLocalStorage } from "../8-useStorage/useStorage";
+import { useLocalStorage } from "../08-useStorage/useStorage";
 
 export default function useDarkMode() {
   const [darkMode, setDarkMode] = useLocalStorage("useDarkMode");

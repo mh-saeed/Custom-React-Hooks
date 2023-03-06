@@ -1,4 +1,4 @@
-import { useLocalStorage } from "../8-useStorage/useStorage";
+import { useLocalStorage } from "../08-useStorage/useStorage";
 import * as translations from "./translations";
 
 export default function useTranslation() {
