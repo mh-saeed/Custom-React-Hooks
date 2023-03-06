@@ -7,8 +7,9 @@
 // import PreviousComponent from "./06-usePrevious/PreviousComponent";
 // import StateWithHistoryComponent from "./07-useStateWithHistory/StateWithHistoryComponent";
 // import StorageComponent from "./08-useStorage/StorageComponent";
-import AsyncComponent from "./09-useAsync/AsyncComponent";
-import FetchComponent from "./10-useFetch/FetchComponent";
+// import AsyncComponent from "./09-useAsync/AsyncComponent";
+// import FetchComponent from "./10-useFetch/FetchComponent";
+import ScriptComponent from "./11-useScript/ScriptComponent";
 
 function App() {
   return (
@@ -22,7 +23,8 @@ function App() {
     // <StateWithHistoryComponent />
     // <StorageComponent />
     // <AsyncComponent />
-    <FetchComponent />
+    // <FetchComponent />
+    <ScriptComponent />
   );
 }
 
