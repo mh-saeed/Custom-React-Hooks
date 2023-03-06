@@ -11,7 +11,8 @@
 // import FetchComponent from "./10-useFetch/FetchComponent";
 // import ScriptComponent from "./11-useScript/ScriptComponent";
 // import DeepCompareEffectComponent from "./12-useDeepCompareEffect/DeepCompareEffectComponent";
-import EventListenerComponent from "./13-useEventListener/EventListenerComponent";
+// import EventListenerComponent from "./13-useEventListener/EventListenerComponent";
+import OnScreenComponentComponent from "./14-useOnScreen/OnScreenComponent";
 
 function App() {
   return (
@@ -28,7 +29,8 @@ function App() {
     // <FetchComponent />
     // <ScriptComponent />
     // <DeepCompareEffectComponent />
-    <EventListenerComponent />
+    // <EventListenerComponent />
+    <OnScreenComponentComponent/>
   );
 }
 
