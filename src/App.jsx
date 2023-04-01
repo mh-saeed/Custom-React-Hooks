@@ -22,7 +22,7 @@
 
 // import SizeComponent from "./19-useSize/SizeComponent";
 // import EffectOnceComponent from "./20-useEffectOnce/EffectOnceComponent";
-// import ClickOutsideComponent from "./21-useClickOutside/ClickOutsideComponent";
+import ClickOutsideComponent from "./21-useClickOutside/ClickOutsideComponent";
 // import DarkModeComponent from "./22-useDarkMode/DarkModeComponent";
 // import CopyToClipboardComponent from "./23-useCopyToClipboard/CopyToClipboardComponent";
 
@@ -32,7 +32,7 @@
 // import RenderCountComponent from "./27-useRenderCount/RenderCountComponent";
 // import DebugInformationComponent from "./28-useDebugInformation/DebugInformationComponent";
 // import HoverComponent from "./29-useHover/HoverComponent";
-// import LongPressComponent from "./30-useLongPress.js/LongPressComponent";
+import LongPressComponent from "./30-useLongPress.js/LongPressComponent";
 
 function App() {
   // return <ToggleComponent />
